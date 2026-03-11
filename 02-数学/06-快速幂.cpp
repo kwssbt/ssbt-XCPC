@@ -1,7 +1,4 @@
-#include<bits/stdc++.h>;
-using namespace std;
 //算数快速幂
-typedef long long ll;
 ll qpow(ll b,ll e){
     ll res=1;
     while(e){
@@ -21,8 +18,7 @@ ll qpow(ll b,ll e,ll p){
     }
     return res;
 }
-//高精度
-typedef __int128 i128;
+//龟乘
 i128 mul(i128 a,i128 b,i128 mod){
     a%=mod;
     i128 res=0;

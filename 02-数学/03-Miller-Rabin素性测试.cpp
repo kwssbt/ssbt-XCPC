@@ -1,8 +1,3 @@
-#include<bits/stdc++.h>
-using namespace std;
-
-typedef __int128 i128;
-
 istream &operator>>(istream &is, __int128 &n) {
     string s;
     is >> s;
