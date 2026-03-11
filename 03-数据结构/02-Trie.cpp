@@ -1,7 +1,3 @@
-#include<iostream>
-#include<cstring>
-#include<vector>
-using namespace std;
 class Trie{
     private:
     static const int N=1e7+5;

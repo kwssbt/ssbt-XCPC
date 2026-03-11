@@ -1,6 +1,3 @@
-#include<vector>
-using std::vector;
-
 vector<int>f(int n){
     vector<int>ans;
     for(int i=2;i*i<=n;++i){

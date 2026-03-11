@@ -1,6 +1,3 @@
-#include<bits/stdc++.h>
-using namespace std;
-
 const int N=1e5;
 bitset<N>isp;
 vector<int>p;
